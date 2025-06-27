@@ -1,0 +1,10 @@
+Population: 100, found key is: 0 and shortk-y in 13.69 time.
+Population: 200, found key is: 1 and shortkey in 52.40 time.
+Population: 300, found key is: 0 and .hortkeN in 128.09 time.
+Population: 400, found key is: 1 and shortkey in 227.35 time.
+Population: 500, found key is: 1 and shortkey in 328.91 time.
+Population: 600, found key is: 1 and shortkey in 410.44 time.
+Population: 700, found key is: 1 and shortkey in 614.13 time.
+Population: 2.000000e-01, found key is: 0 and sulesule in 39.55 time.
+Population: 3.000000e-01, found key is: 0 and sulesule in 310.64 time.
+Population: 4.000000e-01, found key is: 0 and sulesule in 721.32 time.
