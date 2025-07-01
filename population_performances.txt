@@ -8,3 +8,14 @@ Population: 700, found key is: 1 and shortkey in 614.13 time.
 Population: 2.000000e-01, found key is: 0 and sulesule in 39.55 time.
 Population: 3.000000e-01, found key is: 0 and sulesule in 310.64 time.
 Population: 4.000000e-01, found key is: 0 and sulesule in 721.32 time.
+accuracy: 12
+accuracy: 8
+accuracy: 8
+accuracy: 5
+mutation: 0.10 accuracy: 8
+mutation: 0.05 accuracy: 14
+mutation: 0.06 accuracy: 8
+mutation: 0.07 accuracy: 11
+mutation: 0.08 accuracy: 8
+mutation: 0.01 accuracy: 4
+mutation: 0.02 accuracy: 8
